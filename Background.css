@@ -1,0 +1,29 @@
+.divBox{
+    display:flex;
+    flex-direction:column;
+    width:400px;
+    height:400px;
+    background-color:black;
+    color:white;
+    margin:250px auto 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.para{
+    color:white;
+    font-size:2rem;
+}
+
+.divBox button{
+    width:150px;
+    height:100px;
+    border:none;
+    border-radius:10px;
+    background:orangered;
+    color:white;
+}
