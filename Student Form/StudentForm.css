@@ -1,0 +1,16 @@
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+.save {
+    display: block;
+    width: 100%;
+    background-color: skyblue;
+}
+
+.btn {
+    background-color: red;
+    color: white;
+}
